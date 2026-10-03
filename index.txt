@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<head>
+	<title> Pertemuan 1 Main </title>
+</head>
+<body>
+	
+	<p> Ini paragraph di Main</p>
+	<h1>Heading 1</h1>
+	<h2>Heading 2</h2>
+	<p> Ini paragraph baru </p>
+</body>
